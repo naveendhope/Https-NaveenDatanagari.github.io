@@ -1,17 +1,12 @@
 # Naveen Datanagari's Resume
 
----
-
 ## Professional Summary
 
 With over nine years of specialized experience in Finance, Healthcare, and HR technology implementations, I am an expert in Workday HCM and iCIMS Recruiting Talent Cloud. My expertise lies in system configuration, reporting, and integrations, where I have a proven track record of configuring Workday modules, building custom EIBs and reports, and serving as an Implementation Consultant for iCIMS. In this capacity, I have managed recruiting module projects and configured applicant tracking systems. My roles have honed my abilities in problem-solving, client interaction, and team leadership, ensuring projects are delivered efficiently and effectively. I am adept at translating business requirements into technical solutions, coordinating between functional and technical teams to achieve timely deliverables. My comprehensive experience and hands-on approach in both Workday and iCIMS implementations highlight my versatility and proficiency, making me a valuable asset to any team. Additionally, I am the subject matter expert in US healthcare billing and enrollment.
 
----
-
 ## Professional Experience
 
 ### Senior Software Engineer, GlobalLogic
-
 May 2022 – Aug 2023
 
 - Good Knowledge on HCM operations and experience in HCM data management and reporting.
@@ -21,11 +16,10 @@ May 2022 – Aug 2023
 - Responding to client issues and ensuring resolution of issues along with configuration team.
 - Cross trained on ICIMS recruiting implementation and involved in ATS projects as an Implementation consultant.
 - Getting requirements from the customer and implementing the recruiting products as per the client’s needs.
-- Hands-on experience on creating project plans and project outline.
+- Hands on experience on creating project plans and project outline.
 - Experienced in provisioning tickets of various ATS projects.
 
 ### Subject Matter Expert
-
 Jan 2016 – May 2022
 
 - Experience in requirement gathering, Functional/Technical design document.
@@ -38,20 +32,16 @@ Jan 2016 – May 2022
 - Working guideline changes for process improvements.
 
 ### Claims Associate
-
 Jun 2015 – Jan 2016
 
 - Inventory management in case installation process Enrolling group level health plan information into IBM PCOMM application Maintaining of contact installation cases as per the customer request.
 - Buddy auditing the work of other team members.
 
 ### Process Associate
-
 Aug 2014 – Jun 2015
 
 - Review the operations daily, ensuring schedules are met and all tasks are accomplished.
 - Provide instruction to team members to guide them in their responsibilities and encourage more successful work.
-
----
 
 ## Education
 
@@ -61,8 +51,6 @@ Aug 2014 – Jun 2015
   - JNTU University, Hyderabad, India
 - Bachelor of Science – MSCS (Math’s, Statistics, and Computer Science) (April 2011)
   - Osmania University, Hyderabad, India
-
----
 
 ## Technical Skills
 
