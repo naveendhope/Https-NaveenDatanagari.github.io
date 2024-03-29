@@ -1,4 +1,4 @@
-# Naveen Datanagari's Resume
+# Naveen Datanagari
 
 **Professional Summary**
 
@@ -62,3 +62,10 @@ With over nine years of specialized experience in Finance, Healthcare, and HR te
 - Requirements Gathering
 - Critical Thinking Capabilities
 - Database Management
+
+**Projects**
+Performed an undertaking on Image categorization employing Deep Learning through the implementation of Tensorflow.
+Performed an investigation on AutoML Model Training utilizing Microsoft Azure.
+Performed a study on the development of AI chatbots leveraging Microsoft Azure.
+Performed a project on linguistic identification utilizing the Python programming language.
+Performed an analysis on the time series data of Netflix subscriptions using GARCH and ARIMA models in Minitab.
